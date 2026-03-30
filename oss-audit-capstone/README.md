@@ -64,8 +64,5 @@ Example:
 
 The script will create a text file like `manifesto_<username>.txt` in the current directory.
 
-## Notes for Submission
-On your course portal, you typically need:
-- A public GitHub repo link containing `README.md` + all 5 `.sh` scripts
-- Your report PDF (12–16 pages) following `report/REPORT_TEMPLATE.md`
+
 
