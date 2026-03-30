@@ -6,8 +6,8 @@
 set -u
 
 # --- Variables (override using environment variables if needed) ---
-STUDENT_NAME="${STUDENT_NAME:-YOUR_NAME_HERE}"
-SOFTWARE_CHOICE="${SOFTWARE_CHOICE:-YOUR_CHOSEN_SOFTWARE_HERE}"
+STUDENT_NAME="${STUDENT_NAME:-Adish Gupta}"
+SOFTWARE_CHOICE="${SOFTWARE_CHOICE:-Git}"
 
 # --- Helpers: detect Linux distribution name ---
 get_distro() {
