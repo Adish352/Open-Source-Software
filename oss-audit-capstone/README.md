@@ -5,10 +5,6 @@
 - **Roll Number:** `24BCE10928`
 - **Chosen Open-Source Software:** `git`
 
-## Overview
-This repository contains the required **five Linux shell scripts** for the *Open Source Audit* capstone, plus a **report template** you can use to write your 12–16 page project report (Part A–D) as described in your assignment PDF.
-
-> Important: Your final report must be written in your own words (do not paste AI-generated text without understanding).
 
 ## Repository Contents
 - `scripts/01_system_identity.sh` - System Identity Report
