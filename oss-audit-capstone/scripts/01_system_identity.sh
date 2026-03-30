@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: [Your Name]
+# Author: [Adish Gupta}]
 # Course: Open Source Software
 
 set -u
